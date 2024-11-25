@@ -19,7 +19,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.practise.firstapp",
+      "versionCode": 4
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -28,6 +30,7 @@
       "eas": {
         "projectId": "0c861bd5-6a66-4413-9cd2-36fbd465d74a"
       }
-    }
+    },
+    "owner": "practise"
   }
 }
